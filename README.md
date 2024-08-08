@@ -17,11 +17,11 @@ Welcome to **CRAVATO**, where culinary dreams come true! Dive into a seamless di
 
 CRAVATO is designed to revolutionize the way you dine. From exploring diverse cuisines to managing your orders seamlessly, CRAVATO offers an unmatched user experience.
 
-![Cravato Overview](path/to/overview/image.gif)
-
 ## 🎥 Demo
 
 Curious to see CRAVATO in action? Check out our [Live Demo](http://example.com) or watch our [Demo Video](http://example.com).
+
+ ### [ 👆🏼WORK IN PROGRESS👆🏼 ]
 
 ## 🚀 Features
 
